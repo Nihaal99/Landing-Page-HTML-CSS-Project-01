@@ -1,0 +1,113 @@
+.container {
+  padding-left: 240px;
+  padding-top: 60px;
+  font-family: "Orbitron", sans-serif;
+}
+img[alt*="brand-logo"] {
+  width: 110px;
+  position: relative;
+  left: 0px;
+  top: -30px;
+}
+.list-item {
+  display: inline-block;
+  margin: 10px;
+  position: relative;
+  left: 280px;
+  top: -75px;
+  font-weight: 450;
+}
+.list-item:nth-child(1) {
+  text-decoration-line: underline;
+}
+.search-icon {
+  position: relative;
+  left: 620px;
+  top: -120px;
+  transform: scale(0.7);
+}
+.nav-button {
+  position: relative;
+  left: 850px;
+  top: -160px;
+  background-color: #fff;
+  padding: 6px 38px;
+  border-radius: 12px;
+  font-family: sans-serif;
+}
+div.hero-container span.star img.star1 {
+  position: relative;
+  left: 520px;
+  top: -440px;
+  height: 40px;
+}
+div.hero-container span.star img.star2 {
+  position: relative;
+  left: 30px;
+  top: -50px;
+  height: 33.5px;
+}
+img[alt*="globe-pattern"] {
+  height: 40px;
+  position: relative;
+  top: -460px;
+  left: 50px;
+}
+img[alt*="person-hero-image"] {
+  position: relative;
+  top: -500px;
+  height: 430px;
+}
+.hero-container-right {
+  position: relative;
+  top: -850px;
+  left: 450px;
+}
+.hero-heading {
+  display: inline;
+  font-size: 250%;
+  font-weight: bolder;
+  position: relative;
+  left: 10px;
+}
+.hero-description {
+  position: absolute;
+  left: 10px;
+  right: 730px;
+  text-align: center;
+  font-family: serif;
+}
+.button-email {
+  position: relative;
+  left: 130px;
+  top: 140px;
+  background-color: #fff;
+  padding: 2px 40px;
+  font-weight: bold;
+  border-radius: 5px;
+  font-family: "Orbitron", sans-serif;
+}
+.button-join {
+  position: relative;
+  left: 140px;
+  top: 140px;
+  color: rgba(252, 247, 247, 0.993);
+  background-color: rgb(15, 1, 1);
+  border-radius: 5px;
+  padding: 1px 4px;
+}
+.contact-heading {
+  position: relative;
+  top: 220px;
+  left: 240px;
+  font-weight: lighter;
+  font-family: serif;
+}
+.icons {
+  position: relative;
+  top: 200px;
+  left: -20px;
+  word-spacing: 15px;
+  transform: scale(0.65);
+  height: auto;
+}
