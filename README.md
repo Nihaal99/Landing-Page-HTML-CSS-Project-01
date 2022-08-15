@@ -11,4 +11,4 @@
 ### Learnings:
 - Learned about CSS positioning relative,absolute etc.
 - Learned about targeting the elements.
--Learned about pseudo classes like: **nth child()**,**first child()** etc.
+- Learned about pseudo classes like: **nth child()**,**first child()** etc.
